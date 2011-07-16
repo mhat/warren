@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    carrot (0.7.0)
+    git (1.2.5)
+    jeweler (1.6.4)
+      bundler (~> 1.0)
+      git (>= 1.2.5)
+      rake
+    rake (0.9.2)
+    rcov (0.9.9)
+    sweatshop (1.6.0)
+      carrot (= 0.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.0.15)
+  jeweler (~> 1.6.4)
+  rcov
+  sweatshop (~> 1.6.0)
